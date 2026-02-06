@@ -1,0 +1,39 @@
+/* Style général de la page */
+body {
+img {
+    float: right;
+    margin: 0;
+    min-height: auto;
+}
+    font-family: Arial, sans-serif; 
+    background-color: white;       
+    color: black;                  
+    margin: 50px;                  /* Espace autour de la page */
+}
+
+.entete {            
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: rgb(57, 57, 238);                   /* Nom en bleu */
+}
+
+h2 {
+    color: rgb(72, 72, 247);
+    border-bottom: 1px solid gray; /* Une petite ligne sous le titre */
+}
+
+/* Style pour les sections */
+.section {
+    margin-top: 20px;
+}
+
+/* Style pour les listes (points) */
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,14 @@
+strong {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+body {
+     background-image: url("C:\\html\\photo_2026-02-06_22-02-55.jpg");
+    background-size: cover;  
+    background-position: center bottom;
+    background-repeat:  no-repeat;    
+}

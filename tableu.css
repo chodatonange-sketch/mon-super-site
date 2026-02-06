@@ -1,0 +1,48 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 2px solid black;
+  padding: 21px;
+  text-align: center;
+  background-color: wheat;
+}
+caption {
+  font-size: 1.5em;
+  margin: 10px;
+  width: max-content;
+}
+
+body {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+.vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight: bold;
+}
+
+.big {
+    height: 120px;
+    font-size: 20px;
+}
+
+.small {
+    width: 80px;
+    font-size: 16px;
+}
